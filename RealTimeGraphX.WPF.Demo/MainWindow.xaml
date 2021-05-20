@@ -5,7 +5,6 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:RealTimeGraphX.WPF.Demo"
         xmlns:collections="clr-namespace:System.Collections;assembly=mscorlib"
-        xmlns:realTimeGraphX="clr-namespace:RealTimeGraphX.WPF;assembly=RealTimeGraphX.WPF"
         mc:Ignorable="d"
         Title="RealtimeGraphX WPF Demo" Height="587" Width="1168.5" d:DataContext="{d:DesignData Type=local:MainWindowVM, IsDesignTimeCreatable=False}">
 

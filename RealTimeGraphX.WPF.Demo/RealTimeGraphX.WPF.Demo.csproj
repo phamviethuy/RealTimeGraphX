@@ -102,9 +102,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\RealTimeGraphX.WPF\RealTimeGraphX.WPF.csproj">
-      <Project>{6b9774f7-960d-438e-ad81-c6b9be328d50}</Project>
-      <Name>RealTimeGraphX.WPF</Name>
+    <ProjectReference Include="..\RealTimeGraphX.NetCore.WPF\RealTimeGraphX.NetCore.WPF.csproj">
+      <Project>{f86978a6-24b1-4197-9471-16978d6bb9fc}</Project>
+      <Name>RealTimeGraphX.NetCore.WPF</Name>
     </ProjectReference>
     <ProjectReference Include="..\RealTimeGraphX\RealTimeGraphX.csproj">
       <Project>{61f001e1-6e17-4ca6-8f3a-8a11d7166815}</Project>

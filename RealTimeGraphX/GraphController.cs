@@ -1,10 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
-using System.Text;
 using System.Linq;
 using System.Threading;
-using System.Threading.Tasks;
 using System.Drawing;
 using RealTimeGraphX.EventArguments;
 using RealTimeGraphX.Renderers;
