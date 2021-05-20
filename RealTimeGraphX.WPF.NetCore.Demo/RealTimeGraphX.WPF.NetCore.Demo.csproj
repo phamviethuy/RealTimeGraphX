@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RealTimeGraphX.NetCore.WPF\RealTimeGraphX.NetCore.WPF.csproj" />
+    <PackageReference Include="RealTimeGraphX.NetCore.WPF" Version="1.0.0" />
   </ItemGroup>
 
   <ItemGroup>
